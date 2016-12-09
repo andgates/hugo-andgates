@@ -1,0 +1,4 @@
+[submodule "andgates/public"]
+	path = andgates/public
+	url = https://github.com/andgates/andgates.github.io.git
+	branch = master
